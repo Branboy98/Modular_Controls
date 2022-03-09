@@ -1,0 +1,2 @@
+# Modular_Controls
+This Python 3 script (works in Maya 2022 onward, can use in previous versions by changing print statements to Python 2) creates a UI that lets the user create controls modularly down a joint chain, beginning at a selected joint, using a slider. These controls will have the same location and rotation as the joints, as well as 2 layers of groups between them for later Set Driven Keys among other options. There’s also an Auto button that will automatically count how many joints to end the chain.
